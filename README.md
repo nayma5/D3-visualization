@@ -19,4 +19,11 @@ featuring:
 - Tooltip on hover  
 - Smooth animated transitions  
 
- 
+## Deployment
+
+Live page:
+https://nayma5.github.io/D3-visualization/
+
+Source code:
+https://github.com/nayma5/D3-visualization
+
